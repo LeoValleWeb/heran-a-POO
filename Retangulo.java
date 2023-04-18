@@ -6,7 +6,7 @@ public class Retangulo extends Figura {
         this.base=base;
         this.altura=altura;
     }
-    public double arena(){
+    public double area(){
         return base*altura;
     }
 
